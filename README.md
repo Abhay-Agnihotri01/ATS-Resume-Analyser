@@ -30,7 +30,6 @@ Resumind is an AI-powered resume analyzer that helps job seekers optimize their 
 ### Prerequisites
 
 - Node.js (v18 or higher)
-- npm or yarn
 
 ### Installation
 
@@ -43,33 +42,25 @@ Resumind is an AI-powered resume analyzer that helps job seekers optimize their 
 2. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn
    ```
 
 3. Start the development server:
    ```bash
    npm run dev
-   # or
-   yarn dev
    ```
 
-4. Open your browser and navigate to `http://localhost:3000`
+4. Open your browser and navigate to `http://localhost:5173`
 
 ### Building for Production
 
 ```bash
 npm run build
-# or
-yarn build
 ```
 
 To start the production server:
 
 ```bash
 npm run start
-# or
-yarn start
 ```
 
 ## How It Works
