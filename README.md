@@ -53,15 +53,15 @@ Resumind is an AI-powered resume analyzer that helps job seekers optimize their 
 
 ## Building for Production
 
-```bash
-npm run build
-```
+   ```bash
+   npm run build
+   ```
 
 To start the production server:
 
-```bash
-npm run start
-```
+   ```bash
+   npm run start
+   ```
 
 ## How It Works
 
