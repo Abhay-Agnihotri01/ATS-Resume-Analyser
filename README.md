@@ -1,6 +1,6 @@
 # Resumind - AI Resume Analyzer
 
-![Resumind](./public/readme/hero.webp)
+![Resumind](./public/images/resume-scan.gif)
 
 Resumind is an AI-powered resume analyzer that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and improve their chances of landing interviews. The application provides detailed feedback on various aspects of your resume, including ATS compatibility, content quality, structure, tone, and skills alignment with job descriptions.
 
