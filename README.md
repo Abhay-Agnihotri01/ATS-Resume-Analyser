@@ -51,7 +51,7 @@ Resumind is an AI-powered resume analyzer that helps job seekers optimize their 
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-### Building for Production
+## Building for Production
 
 ```bash
 npm run build
